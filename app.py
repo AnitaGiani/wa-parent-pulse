@@ -17,8 +17,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-import os
-st.write("Current working directory:", os.getcwd())
+
 # ----- Load Data -----
 df = pd.read_csv("wa_parent_pulse_with_coords.csv")
 
