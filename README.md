@@ -6,7 +6,7 @@
 
 ## 🚀 Live App
 
-👉 [Click here to view the live dashboard](https://your-streamlit-link-goes-here)
+👉 [Click here to view the live dashboard]([https://your-streamlit-link-goes-here](https://wa-parent-pulse-qhkmlnvgasw3kpk5re83s8.streamlit.app/)
 
 ---
 
@@ -57,9 +57,7 @@ This dashboard uses mock or community-collected data (not official government da
 ## 🙋‍♀️ Creator
 
 **Anita Lalwani**  
-Final Year BSc Computer Science | Mum of Two | Digital Public Sector Enthusiast  
-📧 anitalalwani.dev@gmail.com  
-📷 Instagram: [@yourhandle](https://instagram.com/yourhandle)
+Final Year BSc Computer Science 
 
 ---
 
