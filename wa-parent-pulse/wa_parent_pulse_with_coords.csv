@@ -1,0 +1,101 @@
+ID,Suburb,Postcode,Region,StressLevel,MainChallenge,AccessToServices,KidsUnder5,Latitude,Longitude
+1,Kalgoorlie,6430,Goldfields,2,Mental health support,Yes,Yes,-30.7489,121.4659
+2,Bunbury,6230,South West,5,Healthcare access,Yes,No,-33.3271,115.6414
+3,Albany,6330,Great Southern,4,Education services,Yes,No,-35.0231,117.883
+4,Joondalup,6027,Metro North,5,Healthcare access,No,Yes,-31.745,115.7662
+5,Bunbury,6230,South West,1,Mental health support,No,Yes,-33.3271,115.6414
+6,Albany,6330,Great Southern,2,Childcare access,Yes,Yes,-35.0231,117.883
+7,Geraldton,6530,Mid West,3,Cost of living,No,No,-28.7783,114.6144
+8,Kalgoorlie,6430,Goldfields,3,Mental health support,No,No,-30.7489,121.4659
+9,Broome,6725,Kimberley,4,Cost of living,Yes,Yes,-17.9614,122.2359
+10,Fremantle,6160,Metro South,3,Work-life balance,No,Yes,-32.0569,115.7439
+11,Geraldton,6530,Mid West,5,Work-life balance,Yes,Yes,-28.7783,114.6144
+12,Fremantle,6160,Metro South,4,Work-life balance,No,No,-32.0569,115.7439
+13,Albany,6330,Great Southern,3,Mental health support,Yes,Yes,-35.0231,117.883
+14,Albany,6330,Great Southern,1,Childcare access,No,Yes,-35.0231,117.883
+15,Kalgoorlie,6430,Goldfields,2,Education services,Yes,Yes,-30.7489,121.4659
+16,Joondalup,6027,Metro North,4,Cost of living,Yes,Yes,-31.745,115.7662
+17,Fremantle,6160,Metro South,4,Cost of living,No,Yes,-32.0569,115.7439
+18,Fremantle,6160,Metro South,1,Education services,Yes,Yes,-32.0569,115.7439
+19,Belmont,6104,Metro East,3,Healthcare access,Yes,Yes,-31.955,115.946
+20,Belmont,6104,Metro East,5,Healthcare access,No,Yes,-31.955,115.946
+21,Geraldton,6530,Mid West,5,Education services,No,Yes,-28.7783,114.6144
+22,Joondalup,6027,Metro North,3,Childcare access,Yes,No,-31.745,115.7662
+23,Mandurah,6210,Peel,2,Education services,No,Yes,-32.5269,115.7216
+24,Albany,6330,Great Southern,4,Work-life balance,No,No,-35.0231,117.883
+25,Broome,6725,Kimberley,3,Childcare access,No,No,-17.9614,122.2359
+26,Midland,6056,Metro East,5,Childcare access,No,No,-31.8894,116.0078
+27,Broome,6725,Kimberley,5,Work-life balance,No,No,-17.9614,122.2359
+28,Belmont,6104,Metro East,1,Mental health support,Yes,Yes,-31.955,115.946
+29,Bunbury,6230,South West,4,Childcare access,No,No,-33.3271,115.6414
+30,Albany,6330,Great Southern,2,Cost of living,No,Yes,-35.0231,117.883
+31,Belmont,6104,Metro East,5,Childcare access,Yes,Yes,-31.955,115.946
+32,Joondalup,6027,Metro North,2,Childcare access,Yes,Yes,-31.745,115.7662
+33,Midland,6056,Metro East,1,Healthcare access,Yes,Yes,-31.8894,116.0078
+34,Broome,6725,Kimberley,1,Work-life balance,No,Yes,-17.9614,122.2359
+35,Broome,6725,Kimberley,3,Healthcare access,Yes,No,-17.9614,122.2359
+36,Joondalup,6027,Metro North,4,Cost of living,Yes,No,-31.745,115.7662
+37,Belmont,6104,Metro East,3,Work-life balance,Yes,No,-31.955,115.946
+38,Midland,6056,Metro East,4,Cost of living,No,No,-31.8894,116.0078
+39,Mandurah,6210,Peel,4,Work-life balance,Yes,No,-32.5269,115.7216
+40,Mandurah,6210,Peel,4,Healthcare access,No,Yes,-32.5269,115.7216
+41,Broome,6725,Kimberley,2,Childcare access,No,Yes,-17.9614,122.2359
+42,Bunbury,6230,South West,5,Childcare access,No,Yes,-33.3271,115.6414
+43,Midland,6056,Metro East,3,Education services,Yes,Yes,-31.8894,116.0078
+44,Fremantle,6160,Metro South,1,Cost of living,No,Yes,-32.0569,115.7439
+45,Albany,6330,Great Southern,2,Childcare access,No,No,-35.0231,117.883
+46,Geraldton,6530,Mid West,4,Mental health support,No,Yes,-28.7783,114.6144
+47,Belmont,6104,Metro East,2,Healthcare access,No,Yes,-31.955,115.946
+48,Albany,6330,Great Southern,3,Work-life balance,Yes,Yes,-35.0231,117.883
+49,Joondalup,6027,Metro North,4,Mental health support,No,No,-31.745,115.7662
+50,Bunbury,6230,South West,2,Childcare access,Yes,Yes,-33.3271,115.6414
+51,Broome,6725,Kimberley,5,Mental health support,No,No,-17.9614,122.2359
+52,Geraldton,6530,Mid West,5,Childcare access,No,No,-28.7783,114.6144
+53,Geraldton,6530,Mid West,3,Work-life balance,No,No,-28.7783,114.6144
+54,Albany,6330,Great Southern,3,Childcare access,No,No,-35.0231,117.883
+55,Belmont,6104,Metro East,2,Education services,Yes,No,-31.955,115.946
+56,Kalgoorlie,6430,Goldfields,5,Education services,No,Yes,-30.7489,121.4659
+57,Broome,6725,Kimberley,2,Education services,Yes,Yes,-17.9614,122.2359
+58,Broome,6725,Kimberley,4,Childcare access,No,Yes,-17.9614,122.2359
+59,Midland,6056,Metro East,5,Mental health support,Yes,No,-31.8894,116.0078
+60,Geraldton,6530,Mid West,2,Cost of living,No,No,-28.7783,114.6144
+61,Kalgoorlie,6430,Goldfields,2,Cost of living,No,No,-30.7489,121.4659
+62,Bunbury,6230,South West,5,Mental health support,Yes,Yes,-33.3271,115.6414
+63,Kalgoorlie,6430,Goldfields,2,Healthcare access,No,No,-30.7489,121.4659
+64,Broome,6725,Kimberley,1,Mental health support,No,No,-17.9614,122.2359
+65,Albany,6330,Great Southern,5,Mental health support,Yes,Yes,-35.0231,117.883
+66,Joondalup,6027,Metro North,3,Work-life balance,No,Yes,-31.745,115.7662
+67,Geraldton,6530,Mid West,3,Cost of living,Yes,Yes,-28.7783,114.6144
+68,Broome,6725,Kimberley,5,Childcare access,No,Yes,-17.9614,122.2359
+69,Mandurah,6210,Peel,3,Cost of living,No,Yes,-32.5269,115.7216
+70,Kalgoorlie,6430,Goldfields,3,Work-life balance,Yes,Yes,-30.7489,121.4659
+71,Bunbury,6230,South West,3,Childcare access,Yes,No,-33.3271,115.6414
+72,Kalgoorlie,6430,Goldfields,3,Childcare access,Yes,Yes,-30.7489,121.4659
+73,Kalgoorlie,6430,Goldfields,2,Work-life balance,No,Yes,-30.7489,121.4659
+74,Belmont,6104,Metro East,5,Mental health support,No,Yes,-31.955,115.946
+75,Broome,6725,Kimberley,4,Work-life balance,Yes,No,-17.9614,122.2359
+76,Joondalup,6027,Metro North,3,Work-life balance,No,Yes,-31.745,115.7662
+77,Geraldton,6530,Mid West,5,Cost of living,Yes,Yes,-28.7783,114.6144
+78,Mandurah,6210,Peel,1,Work-life balance,No,No,-32.5269,115.7216
+79,Fremantle,6160,Metro South,1,Childcare access,Yes,No,-32.0569,115.7439
+80,Kalgoorlie,6430,Goldfields,2,Cost of living,Yes,No,-30.7489,121.4659
+81,Albany,6330,Great Southern,2,Healthcare access,No,No,-35.0231,117.883
+82,Fremantle,6160,Metro South,3,Healthcare access,Yes,No,-32.0569,115.7439
+83,Mandurah,6210,Peel,3,Mental health support,Yes,No,-32.5269,115.7216
+84,Geraldton,6530,Mid West,5,Work-life balance,Yes,Yes,-28.7783,114.6144
+85,Belmont,6104,Metro East,5,Healthcare access,Yes,No,-31.955,115.946
+86,Geraldton,6530,Mid West,2,Healthcare access,No,Yes,-28.7783,114.6144
+87,Fremantle,6160,Metro South,1,Cost of living,Yes,Yes,-32.0569,115.7439
+88,Kalgoorlie,6430,Goldfields,2,Healthcare access,Yes,No,-30.7489,121.4659
+89,Bunbury,6230,South West,1,Mental health support,Yes,Yes,-33.3271,115.6414
+90,Kalgoorlie,6430,Goldfields,5,Cost of living,Yes,No,-30.7489,121.4659
+91,Fremantle,6160,Metro South,2,Education services,Yes,No,-32.0569,115.7439
+92,Kalgoorlie,6430,Goldfields,3,Cost of living,No,No,-30.7489,121.4659
+93,Albany,6330,Great Southern,3,Mental health support,Yes,No,-35.0231,117.883
+94,Mandurah,6210,Peel,5,Childcare access,Yes,No,-32.5269,115.7216
+95,Albany,6330,Great Southern,3,Childcare access,No,Yes,-35.0231,117.883
+96,Kalgoorlie,6430,Goldfields,1,Work-life balance,No,No,-30.7489,121.4659
+97,Albany,6330,Great Southern,5,Work-life balance,No,Yes,-35.0231,117.883
+98,Geraldton,6530,Mid West,1,Education services,No,Yes,-28.7783,114.6144
+99,Mandurah,6210,Peel,2,Work-life balance,No,Yes,-32.5269,115.7216
+100,Midland,6056,Metro East,5,Mental health support,No,No,-31.8894,116.0078
