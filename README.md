@@ -6,7 +6,7 @@
 
 ## 🚀 Live App
 
-👉 [Click here to view the live dashboard]([https://your-streamlit-link-goes-here](https://wa-parent-pulse-qhkmlnvgasw3kpk5re83s8.streamlit.app/)
+👉 [Click here to view the live dashboard](Live demo(https://wa-parent-pulse-qhkmlnvgasw3kpk5re83s8.streamlit.app/)
 
 ---
 
