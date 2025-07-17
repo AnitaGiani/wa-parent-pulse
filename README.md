@@ -58,7 +58,8 @@ This dashboard uses mock or community-collected data (not official government da
 
 **Anita Lalwani**  
 Final Year BSc Computer Science 
-
+🛡 License
+This project is shared for educational and portfolio purposes. Please give appropriate credit if reused.
 ---
 
 ## 📦 Setup
